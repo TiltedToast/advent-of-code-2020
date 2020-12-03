@@ -11,12 +11,10 @@ def check_slope(right, down):
     return trees
 
 
-### Part 1
-
+# Part 1
 print(check_slope(3, 1))
 
-### Part 2
-
+# Part 2
 slopes = [(1, 1), (3, 1), (5, 1), (7, 1), (1, 2)]
 
 result = 1
